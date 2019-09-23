@@ -1,4 +1,4 @@
-Solutions to codility lessons 
+Solutions to codility [lessons](https://app.codility.com/programmers/lessons)
 
 ---
 
