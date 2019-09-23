@@ -4,7 +4,7 @@ Solutions to codility lessons
 
 Lesson 1: Iterations
 
-** Binary gap**
+**Binary gap**
 
 A binary gap within a positive integer N is any maximal sequence of consecutive zeros that is surrounded by ones at both ends in the binary representation of N.
 
@@ -27,7 +27,7 @@ N is an integer within the range [1..2,147,483,647].
 Lesson 2: Arrays
 
 
-** Odd occurrences in array**
+**Odd occurrences in array**
 
 A non-empty array A consisting of N integers is given. The array contains an odd number of elements, and each element of the array can be paired with another element that has the same value, except for one element that is left unpaired.
 
@@ -60,7 +60,7 @@ each element of array A is an integer within the range [1..1,000,000,000];
 all but one of the values in A occur an even number of times.
 
 
-** Cyclic rotation**
+**Cyclic rotation**
 
 An array A consisting of N integers is given. Rotation of the array means that each element is shifted right by one index, and the last element of the array is moved to the first place. For example, the rotation of array A = [3, 8, 9, 7, 6] is [6, 3, 8, 9, 7] (elements are shifted right by one index and 6 is moved to the first place).
 
